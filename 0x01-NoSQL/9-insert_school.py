@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" MongbDB Operations with Python using pmongo ""
+""" MongoDB Operations with Python using pymongo """
 
 
 def insert_school(mongo_collection, **kwargs):
